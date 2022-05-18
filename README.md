@@ -1,10 +1,10 @@
-# Cross validation in Finance and Quantitative models
+# Cross validation of volatility measure and its drawback based on performance analysis
 # Volatility: 
 Volatility is a statistical measure of the dispersion of returns for a given security or market index.
 
 Cross validation based on different volatility measure.
 # 1.Garman Klass Volatility 
-Garman and Klass assumed that the process of price change is a process of continuous diffusion (geometric Brownian motion). However, this assumption has several drawbacks. The method is not robust for opening jumps in price and trend movements.
+Garman and Klass assumed that the process of price change is a process of continuous diffusion (geometric Brownian motion). However, this assumption has several drawbacks.
 ![image](https://user-images.githubusercontent.com/58583011/169019846-ab80f756-fd3f-4cc1-94e6-1fa1150fdb98.png)
 
 # 2.Parkinson Volatility
